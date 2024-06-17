@@ -6,7 +6,7 @@
 
 #include <Arduino.h>
 #include "Relgeta.h" // Creado
-#include "WiFi.h"
+#include "WiFi.h"d
 #include <TinyGsmClient.h>
 
 regleta_config_t config;
