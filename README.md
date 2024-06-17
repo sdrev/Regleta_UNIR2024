@@ -6,6 +6,7 @@ Creado por el alumno Carlos V.S.
 
 
 
+### FUNCIONAMIENTO DE LA REGLETA
 
 https://github.com/sdrev/Regleta_UNIR2024/assets/9254573/faeaf8fd-59db-4c22-bbc2-f198d8c8d5d2
 
