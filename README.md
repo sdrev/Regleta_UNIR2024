@@ -3,5 +3,7 @@ Creado por el alumno Carlos V.S.
 
 
 
-https://github.com/sdrev/Regleta_UNIR2024/assets/9254573/ff9f61f8-a7d2-4b06-9756-e921d24981a2
+
+
+https://github.com/sdrev/Regleta_UNIR2024/assets/9254573/faeaf8fd-59db-4c22-bbc2-f198d8c8d5d2
 
