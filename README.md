@@ -5,8 +5,9 @@ Este codigo ha sido desarrollado con fines academicos para el Trabajo de Fin de 
 El codigo es el Firmware usado para la placa de desarrollo TTGo SIM7000G, junto al uso del modulo T-SimHat de tres relés. Este codigo se carga con la herramienta Platformio, que se encuentra en VSC.
 
 Creado por el alumno Carlos V.S.
+--
 
-### DISTRIBUCIÓN ARCHIVOS
+#### DISTRIBUCIÓN ARCHIVOS
 La distribución de los archivos creados es la siguiente:
 
  - include:
