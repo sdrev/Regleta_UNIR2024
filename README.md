@@ -6,11 +6,12 @@ El codigo es el Firmware usado para la placa de desarrollo TTGo SIM7000G, junto 
 
 Creado por el alumno Carlos V.S.
 
-# ESTRUCTURA CÓDIGO
+### ESTRUCTURA CÓDIGO
 La estructura de los archivos creados es la siguietne:
 
  - include:
    - Regleta.h
+
  - src:
    - SMS.cpp
    - config.cpp
