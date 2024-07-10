@@ -10,14 +10,14 @@ Creado por el alumno Carlos V.S.
 La estructura de los archivos creados es la siguietne:
 
  - include:
-  - Regleta.h
+   - Regleta.h
  - src:
-  - SMS.cpp
-  - config.cpp
-  - debug.cpp
-  - main.cpp
-  - mqtt_conect.cpp
-  - sim7000.cpp 
+   - SMS.cpp
+   - config.cpp
+   - debug.cpp
+   - main.cpp
+   - mqtt_conect.cpp
+   - sim7000.cpp 
 
 ### FUNCIONAMIENTO DE LA REGLETA
 
